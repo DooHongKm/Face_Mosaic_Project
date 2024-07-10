@@ -1,6 +1,6 @@
 # Face-Recognition-Project
 CAU 2023-2 Image_Processing Project<br>
-SNS 업로드 시 초상권 침해 방지를 위한 자동 모자이크 서비스<br>
+SNS 업로드 시 초상권 침해 방지를 위한 자동 모자이크 서비스<br><br>
 특정 인물을 제외한 다른 사람들의 얼굴을 모두 모자이크하여 반환
 <br><br>
 <h2>사진 모자이크</h2>
