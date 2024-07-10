@@ -1,6 +1,7 @@
 # Face-Recognition-Project
 CAU 2023-2 Image_Processing Project<br>
 SNS 업로드 시 초상권 침해 방지를 위한 자동 모자이크 서비스
+특정 인물을 제외한 다른 사람들의 얼굴을 모두 모자이크하여 반환
 <br><br>
 <h2>사진 모자이크</h2>
 <h3>이미지 업로드</h3>
@@ -9,7 +10,7 @@ SNS 업로드 시 초상권 침해 방지를 위한 자동 모자이크 서비�
 <h3>얼굴 인식 및 선택</h3>
 <img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/3806d585-9dd8-42be-b5bc-41268f860337>
 <img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/a9737f0b-21a3-4af8-865b-69d702468fd3>
-<h3>다른 얼굴 모자이크</h3>
+<h3>모자이크</h3>
 <img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/18bc0dc3-30d5-42b1-9563-5f6584ee6f0a>
 <br><br><br>
 <h2>영상 모자이크</h2></h2>
@@ -19,5 +20,5 @@ SNS 업로드 시 초상권 침해 방지를 위한 자동 모자이크 서비�
 <h3>비디오 업로드</h3>
 <img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/89ff8272-507a-4140-9f6b-2ab73c66f361>
 <img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/8e44022e-6778-4910-92e9-1003c98218e1>
-<h3>다른 얼굴 모자이크</h3>
+<h3>모자이크</h3>
 <img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/157dfaac-cab4-4eb1-b3d0-2ba19c590232>
