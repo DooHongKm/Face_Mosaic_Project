@@ -11,7 +11,6 @@ SNS 업로드 시 초상권 침해 방지를 위한 자동 모자이크 서비�
 <img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/a9737f0b-21a3-4af8-865b-69d702468fd3>
 <h3>다른 얼굴 모자이크</h3>
 <img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/18bc0dc3-30d5-42b1-9563-5f6584ee6f0a>
-<img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/ad07cf2c-a817-4c0c-bc88-5c9b2afcc569>
 <br><br><br>
 <h2>영상 모자이크</h2></h2>
 <h3>특정 인물 사진 폴더 경로 업로</h3>
