@@ -4,20 +4,20 @@ SNS 업로드 시 초상권 침해 방지를 위한 자동 모자이크 서비�
 <br>
 <h2>사진 모자이크</h2>
 <h3>이미지 업로드</h3>
-<img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/c5ac4d40-0b96-4ec5-852c-df54215a334a width=500 height=425>
-<img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/6458191b-d11b-4c7b-9943-3e6965de304e>
-<h3>얼굴 인식 및 선택</h3>
-<img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/83aa0ba4-43b8-4f82-aa93-8201b847a4d9>
-<img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/97fa539f-29ce-428b-8d6a-9e3149983a68>
+![image](https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/15c5ed83-fccb-42aa-8cdc-2bf2086a6514)
+![image](https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/44880896-e06a-466f-b6f0-d161e661e02e)
+<h3>얼굴 인식 및 선</h3>
+![image](https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/3806d585-9dd8-42be-b5bc-41268f860337)
+![image](https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/a9737f0b-21a3-4af8-865b-69d702468fd3)
 <h3>다른 얼굴 모자이크</h3>
-<img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/ca5ed346-932d-4fe0-849a-4e508d7fa74d>
-<img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/355da9c6-b20f-40c9-8cf1-b43d817bd20b>
+![image](https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/18bc0dc3-30d5-42b1-9563-5f6584ee6f0a)
+![image](https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/ad07cf2c-a817-4c0c-bc88-5c9b2afcc569)
 <h2>영상 모자이크</h2></h2>
 <h3>특정 인물 사진 폴더 경로 업로</h3>
-<img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/dbc391f7-7a3c-4e02-9cf1-6bb4127aa024>
-<img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/c2bd762b-fed3-45f6-b241-47b93fdd52f2>
+![image](https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/2a21d106-f732-4b8c-9954-4543a68ac77d)
+![image](https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/08f3fc60-bd8d-4799-96d0-4ab112350340)
 <h3>비디오 업로드</h3>
-<img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/03aa4670-20d2-4fd6-a689-db21c4c52ffb>
-<img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/56d6397e-e977-40e8-9e58-7f756398869d>
+![image](https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/89ff8272-507a-4140-9f6b-2ab73c66f361)
+![image](https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/8e44022e-6778-4910-92e9-1003c98218e1)
 <h3>다른 얼굴 모자이크</h3>
-<img src=https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/c934dbb6-460a-4274-8422-d7cbffe7c38f>
+![image](https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/157dfaac-cab4-4eb1-b3d0-2ba19c590232)
