@@ -4,9 +4,11 @@ SNS 업로드 시 초상권 침해 방지를 위한 자동 모자이크 서비�
 <br>
 <h2>사진 모자이크</h2>
 <h3>이미지 업로드</h3>
+
 ![image](https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/15c5ed83-fccb-42aa-8cdc-2bf2086a6514)
+
 ![image](https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/44880896-e06a-466f-b6f0-d161e661e02e)
-<h3>얼굴 인식 및 선</h3>
+<h3>얼굴 인식 및 선택</h3>
 ![image](https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/3806d585-9dd8-42be-b5bc-41268f860337)
 ![image](https://github.com/DooHongKm/Face_Mosaic_Project/assets/127850414/a9737f0b-21a3-4af8-865b-69d702468fd3)
 <h3>다른 얼굴 모자이크</h3>
